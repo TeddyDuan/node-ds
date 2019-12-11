@@ -1,0 +1,24 @@
+- Tree / 树
+  - Binary / 二叉树
+    - BST / 二叉查找树
+    - AVL / 平衡树
+    - Splay / 伸展树
+  - B / B 树
+- Heap / 堆(优先队列)
+  - Binary / 二叉堆(2-堆)
+  - Leftist / 左式堆
+- Sort / 排序
+  - Simple / 简单排序(选择/插入/冒泡)
+  - Shell / Shell 排序
+  - Heap / 堆排序
+  - Merge / 归并排序
+  - Quick / 快速排序
+- Graph / 图
+  - Top / 拓扑排序
+  - Shortest / 最短路径
+    - 单源最短路径
+      - 无权最短路径
+      - Dijkstra
+  - MST(Minimum Spanning Tree) / 最小生成树
+    - Prim
+    - Kruskal
